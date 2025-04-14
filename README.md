@@ -31,7 +31,7 @@ To help break up the task into more manageable pieces, the full ward map has bee
 Please edit a region using the hex builder tool, save the output as HexJSON[^1], then over-write the appropriate file in this directory. 
 The [full map](https://open-innovations.org/projects/hexmaps/editor/?../maps/uk-wards-2024.hexjson) will be created by combining each of the regions into a final HexJSON file.
 
-The [Wards (May 2024) Boundaries UK SGC](https://geoportal.statistics.gov.uk/datasets/ons::wards-may-2024-boundaries-uk-bsc-2/explore) from the ONS is useful to see the geographic placement of wards. 
+The [Wards (May 2024) Boundaries UK SGC](https://geoportal.statistics.gov.uk/datasets/ons::wards-may-2024-boundaries-uk-bsc-2/explore) from the ONS is useful to see the geographic placement of wards. We have a [version of the ward map](wards.html) that may be useful. 
 
 ## Progress
 
@@ -51,10 +51,10 @@ This is a list of local authority districts and if their wards have been arrange
 - [x] [E06000012](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/E12000003.hexjson&labels=true) - North East Lincolnshire
 - [x] [E06000013](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/E12000003.hexjson&labels=true) - North Lincolnshire
 - [x] [E06000014](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/E12000003.hexjson&labels=true) - York (@slowe)
-- [ ] [E06000015](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/E12000004.hexjson&labels=true) - Derby
-- [ ] [E06000016](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/E12000004.hexjson&labels=true) - Leicester
-- [ ] [E06000017](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/E12000004.hexjson&labels=true) - Rutland
-- [ ] [E06000018](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/E12000004.hexjson&labels=true) - Nottingham
+- [x] [E06000015](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/E12000004.hexjson&labels=true) - Derby
+- [x] [E06000016](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/E12000004.hexjson&labels=true) - Leicester
+- [x] [E06000017](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/E12000004.hexjson&labels=true) - Rutland
+- [x] [E06000018](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/E12000004.hexjson&labels=true) - Nottingham
 - [x] [E06000019](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/E12000005.hexjson&labels=true) - Herefordshire, County of
 - [x] [E06000020](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/E12000005.hexjson&labels=true) - Telford and Wrekin
 - [x] [E06000021](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/E12000005.hexjson&labels=true) - Stoke-on-Trent
@@ -94,8 +94,8 @@ This is a list of local authority districts and if their wards have been arrange
 - [x] [E06000058](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/E12000009.hexjson&labels=true) - Bournemouth, Christchurch and Poole
 - [x] [E06000059](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/E12000009.hexjson&labels=true) - Dorset
 - [ ] [E06000060](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/E12000008.hexjson&labels=true) - Buckinghamshire
-- [ ] [E06000061](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/E12000004.hexjson&labels=true) - North Northamptonshire
-- [ ] [E06000062](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/E12000004.hexjson&labels=true) - West Northamptonshire
+- [x] [E06000061](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/E12000004.hexjson&labels=true) - North Northamptonshire
+- [x] [E06000062](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/E12000004.hexjson&labels=true) - West Northamptonshire
 - [x] [E06000063](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/E12000002.hexjson&labels=true) - Cumberland
 - [x] [E06000064](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/E12000002.hexjson&labels=true) - Westmorland and Furness
 - [x] [E06000065](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/E12000003.hexjson&labels=true) - North Yorkshire
@@ -105,14 +105,14 @@ This is a list of local authority districts and if their wards have been arrange
 - [ ] [E07000010](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/E12000006.hexjson&labels=true) - Fenland
 - [ ] [E07000011](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/E12000006.hexjson&labels=true) - Huntingdonshire
 - [ ] [E07000012](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/E12000006.hexjson&labels=true) - South Cambridgeshire
-- [ ] [E07000032](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/E12000004.hexjson&labels=true) - Amber Valley
-- [ ] [E07000033](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/E12000004.hexjson&labels=true) - Bolsover
-- [ ] [E07000034](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/E12000004.hexjson&labels=true) - Chesterfield
-- [ ] [E07000035](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/E12000004.hexjson&labels=true) - Derbyshire Dales
-- [ ] [E07000036](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/E12000004.hexjson&labels=true) - Erewash
+- [x] [E07000032](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/E12000004.hexjson&labels=true) - Amber Valley
+- [x] [E07000033](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/E12000004.hexjson&labels=true) - Bolsover
+- [x] [E07000034](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/E12000004.hexjson&labels=true) - Chesterfield
+- [x] [E07000035](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/E12000004.hexjson&labels=true) - Derbyshire Dales
+- [x] [E07000036](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/E12000004.hexjson&labels=true) - Erewash
 - [x] [E07000037](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/E12000004.hexjson&labels=true) - High Peak
-- [ ] [E07000038](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/E12000004.hexjson&labels=true) - North East Derbyshire
-- [ ] [E07000039](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/E12000004.hexjson&labels=true) - South Derbyshire
+- [x] [E07000038](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/E12000004.hexjson&labels=true) - North East Derbyshire
+- [x] [E07000039](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/E12000004.hexjson&labels=true) - South Derbyshire
 - [x] [E07000040](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/E12000009.hexjson&labels=true) - East Devon
 - [x] [E07000041](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/E12000009.hexjson&labels=true) - Exeter
 - [x] [E07000042](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/E12000009.hexjson&labels=true) - Mid Devon
@@ -185,20 +185,20 @@ This is a list of local authority districts and if their wards have been arrange
 - [x] [E07000126](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/E12000002.hexjson&labels=true) - South Ribble
 - [x] [E07000127](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/E12000002.hexjson&labels=true) - West Lancashire
 - [ ] [E07000128](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/E12000002.hexjson&labels=true) - Wyre
-- [ ] [E07000129](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/E12000004.hexjson&labels=true) - Blaby
-- [ ] [E07000130](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/E12000004.hexjson&labels=true) - Charnwood
-- [ ] [E07000131](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/E12000004.hexjson&labels=true) - Harborough
-- [ ] [E07000132](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/E12000004.hexjson&labels=true) - Hinckley and Bosworth
-- [ ] [E07000133](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/E12000004.hexjson&labels=true) - Melton
-- [ ] [E07000134](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/E12000004.hexjson&labels=true) - North West Leicestershire
-- [ ] [E07000135](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/E12000004.hexjson&labels=true) - Oadby and Wigston
-- [ ] [E07000136](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/E12000004.hexjson&labels=true) - Boston
-- [ ] [E07000137](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/E12000004.hexjson&labels=true) - East Lindsey
-- [ ] [E07000138](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/E12000004.hexjson&labels=true) - Lincoln
-- [ ] [E07000139](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/E12000004.hexjson&labels=true) - North Kesteven
-- [ ] [E07000140](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/E12000004.hexjson&labels=true) - South Holland
-- [ ] [E07000141](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/E12000004.hexjson&labels=true) - South Kesteven
-- [ ] [E07000142](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/E12000004.hexjson&labels=true) - West Lindsey
+- [x] [E07000129](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/E12000004.hexjson&labels=true) - Blaby
+- [x] [E07000130](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/E12000004.hexjson&labels=true) - Charnwood
+- [x] [E07000131](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/E12000004.hexjson&labels=true) - Harborough
+- [x] [E07000132](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/E12000004.hexjson&labels=true) - Hinckley and Bosworth
+- [x] [E07000133](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/E12000004.hexjson&labels=true) - Melton
+- [x] [E07000134](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/E12000004.hexjson&labels=true) - North West Leicestershire
+- [x] [E07000135](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/E12000004.hexjson&labels=true) - Oadby and Wigston
+- [x] [E07000136](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/E12000004.hexjson&labels=true) - Boston
+- [x] [E07000137](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/E12000004.hexjson&labels=true) - East Lindsey
+- [x] [E07000138](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/E12000004.hexjson&labels=true) - Lincoln
+- [x] [E07000139](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/E12000004.hexjson&labels=true) - North Kesteven
+- [x] [E07000140](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/E12000004.hexjson&labels=true) - South Holland
+- [x] [E07000141](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/E12000004.hexjson&labels=true) - South Kesteven
+- [x] [E07000142](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/E12000004.hexjson&labels=true) - West Lindsey
 - [ ] [E07000143](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/E12000006.hexjson&labels=true) - Breckland
 - [ ] [E07000144](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/E12000006.hexjson&labels=true) - Broadland
 - [ ] [E07000145](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/E12000006.hexjson&labels=true) - Great Yarmouth
@@ -206,13 +206,13 @@ This is a list of local authority districts and if their wards have been arrange
 - [ ] [E07000147](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/E12000006.hexjson&labels=true) - North Norfolk
 - [x] [E07000148](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/E12000006.hexjson&labels=true) - Norwich
 - [ ] [E07000149](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/E12000006.hexjson&labels=true) - South Norfolk
-- [ ] [E07000170](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/E12000004.hexjson&labels=true) - Ashfield
-- [ ] [E07000171](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/E12000004.hexjson&labels=true) - Bassetlaw
-- [ ] [E07000172](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/E12000004.hexjson&labels=true) - Broxtowe
-- [ ] [E07000173](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/E12000004.hexjson&labels=true) - Gedling
-- [ ] [E07000174](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/E12000004.hexjson&labels=true) - Mansfield
-- [ ] [E07000175](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/E12000004.hexjson&labels=true) - Newark and Sherwood
-- [ ] [E07000176](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/E12000004.hexjson&labels=true) - Rushcliffe
+- [x] [E07000170](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/E12000004.hexjson&labels=true) - Ashfield
+- [x] [E07000171](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/E12000004.hexjson&labels=true) - Bassetlaw
+- [x] [E07000172](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/E12000004.hexjson&labels=true) - Broxtowe
+- [x] [E07000173](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/E12000004.hexjson&labels=true) - Gedling
+- [x] [E07000174](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/E12000004.hexjson&labels=true) - Mansfield
+- [x] [E07000175](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/E12000004.hexjson&labels=true) - Newark and Sherwood
+- [x] [E07000176](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/E12000004.hexjson&labels=true) - Rushcliffe
 - [ ] [E07000177](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/E12000008.hexjson&labels=true) - Cherwell
 - [x] [E07000178](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/E12000008.hexjson&labels=true) - Oxford
 - [ ] [E07000179](https://open-innovations.org/projects/hexmaps/editor/?https://open-innovations.github.io/uk-wards-2024/E12000008.hexjson&labels=true) - South Oxfordshire

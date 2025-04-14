@@ -115,7 +115,7 @@ sub combineRegions {
 	opendir($dh,"./");
 	while(($filename = readdir($dh))){
 		if($filename =~ /[ENSW][0-9]{8}.hexjson$/){
-			if($filename =~ /(E12000001|E12000002|E12000003|E12000005|E12000009|N92000002|S92000003|W92000004)/){
+			if($filename =~ /(E12000001|E12000002|E12000003|E12000004|E12000005|E12000006|E12000007|E12000009|N92000002|S92000003|W92000004)/){
 				print "Read from $filename\n";
 				$tmp = getJSON($filename);
 				foreach $hex (keys(%{$tmp->{'hexes'}})){
