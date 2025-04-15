@@ -155,7 +155,7 @@ sub simplify {
 	
 	foreach $id (keys(%{$hexjson->{'hexes'}})){
 		foreach $d (keys(%{$hexjson->{'hexes'}{$id}})){
-			if($d ne "q" && $d ne "r" && $d ne "name" && $d ne "n" && $d ne "colour" && $d ne "RGN24CD" && $d ne "LAD24CD" && $d ne "RGN24NM" && $d ne "LAD24NM"){
+			if($d ne "q" && $d ne "r" && $d ne "name" && $d ne "n" && $d ne "colour" && $d ne "RGN24CD" && $d ne "LAD24CD" && $d ne "RGN24NM" && $d ne "LAD24NM" && $d ne "lat" && $d ne "lon"){
 				delete $hexjson->{'hexes'}{$id}{$d};
 			}
 		}
