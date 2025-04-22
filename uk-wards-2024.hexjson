@@ -6099,7 +6099,7 @@
 		"E05015206":{"LAD24CD":"E06000009","LAD24NM":"Blackpool","RGN24CD":"E12000002","RGN24NM":"North West","colour":"#EB6C72","lat":"53.79242","lon":"-3.04848","n":"Waterloo","q":-89,"r":113},
 		"E05015207":{"LAD24CD":"E06000020","LAD24NM":"Telford and Wrekin","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#83AB58","lat":"52.72243","lon":"-2.54369","n":"Admaston & Bratton","q":-84,"r":59},
 		"E05015208":{"LAD24CD":"E06000020","LAD24NM":"Telford and Wrekin","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#83AB58","lat":"52.7172","lon":"-2.51003","n":"Apley Castle","q":-82,"r":60},
-		"E05015209":{"LAD24CD":"E06000020","LAD24NM":"Telford and Wrekin","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#83AB58","lat":"52.69749","lon":"-2.50433","n":"Arleston & College","q":-80,"r":53},
+		"E05015209":{"LAD24CD":"E06000020","LAD24NM":"Telford and Wrekin","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#83AB58","lat":"52.69749","lon":"-2.50433","n":"Arleston & College","q":-82,"r":58},
 		"E05015210":{"LAD24CD":"E06000020","LAD24NM":"Telford and Wrekin","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#83AB58","lat":"52.64891","lon":"-2.44233","n":"Brookside","q":-79,"r":56},
 		"E05015211":{"LAD24CD":"E06000020","LAD24NM":"Telford and Wrekin","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#83AB58","lat":"52.74607","lon":"-2.39025","n":"Church Aston & Lilleshall","q":-79,"r":60},
 		"E05015212":{"LAD24CD":"E06000020","LAD24NM":"Telford and Wrekin","RGN24CD":"E12000005","RGN24NM":"West Midlands","colour":"#83AB58","lat":"52.64808","lon":"-2.4618","n":"Dawley & Aqueduct","q":-80,"r":56},
@@ -8398,5 +8398,5 @@
 		"W05001800":{"LAD24CD":"W06000021","LAD24NM":"Monmouthshire","RGN24CD":"W92000004","RGN24NM":"Wales","colour":"#18C19F","lat":"51.81454","lon":"-2.68066","n":"Wyesham","q":-86,"r":15}
 	},
 	"layout":"odd-r",
-	"version":"0.7"
+	"version":"0.8"
 }
